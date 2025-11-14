@@ -1,0 +1,12 @@
+----------------------------------------
+        STUDENT PROFILE SYSTEM
+----------------------------------------
+Name:      khushi yadav
+Roll No:   2501060154
+Course:    bca(ai and ds)
+University:KR MANGALAM
+City:      GURUGRAM 
+Age:       18
+Hobby:     playing games 
+----------------------------------------
+Welcome to Python Programming!
